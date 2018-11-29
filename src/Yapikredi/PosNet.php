@@ -6,7 +6,7 @@
  * Time: 14:38
  */
 
-namespace SanalPos\YapiKredi;
+namespace Gunberi\SanalPos\YapiKredi;
 
 
 use SanalPos\Pos;
