@@ -11,5 +11,11 @@ namespace SanalPos;
 
 class Pos
 {
+	protected $config;
+
+	function __construct($pos)
+	{
+		$this->config = include('config/' . $pos . '.php');
+	}
 
 }
