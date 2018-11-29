@@ -3,7 +3,7 @@
   "description": "A payment module for Turkisk banks credit cards.",
   "type": "library",
   "keywords": ["sanal pos"],
-  "require-dev": {
+  "require": {
 	"karagulle/yapikredi": "dev-master"
   },
   "license": "MIT",
