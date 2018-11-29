@@ -9,7 +9,13 @@
 namespace SanalPos\YapiKredi;
 
 
-class PosNet
+use SanalPos\Pos;
+
+class PosNet extends Pos
 {
+
+	public function process($order) {
+
+	}
 
 }
