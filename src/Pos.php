@@ -15,7 +15,7 @@ class Pos
 
 	function __construct($pos)
 	{
-		$this->config = include('config/' . $pos . '.php');
+		$this->config = include('../config/' . $pos . '.php');
 	}
 
 	function getConfig() {
