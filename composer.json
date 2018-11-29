@@ -1,17 +1,16 @@
 {
-  "name": "gunberi/sanalpos",
-  "description": "A payment module for Turkisk banks credit cards",
-  "type": "library",
-  "license": "MIT",
-  "minimum-stability": "dev",
-  "version": "1.0",
-  "require": {
-	"php": ">=5.6.0",
-	"karagulle/yapikredi": "dev-master"
-  },
-  "autoload": {
-	"psr-0": {
-	  "SanalPos": "src/"
-	}
-  }
+    "name": "gunberi/sanalpos",
+    "description": "A payment module for Turkisk banks credit cards.",
+    "type": "library",
+    "require": {
+        "karagulle/yapikredi": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gunberi",
+            "email": "enginalamut@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
 }
