@@ -3,8 +3,13 @@
   "description": "A payment module for Turkisk banks credit cards",
   "type": "library",
   "license": "MIT",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "authors": [
+	{
+	  "name": "Melih Engin Akpınar",
+	  "email": "enginalamut@gmail.com",
+	  "homepage": "https://webhayal.com"
+	}
+  ],
   "require": {
 	"php": ">=5.6.0",
 	"karagulle/yapikredi": "dev-master"
