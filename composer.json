@@ -3,7 +3,7 @@
     "description": "A payment module for Turkisk banks credit cards.",
     "type": "library",
     "require": {
-        "karagulle/yapikredi": "dev-master"
+        "karagulle/yapikredi": "^1.1.*"
     },
     "license": "MIT",
     "authors": [
