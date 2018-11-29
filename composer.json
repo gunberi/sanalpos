@@ -2,8 +2,8 @@
     "name": "gunberi/sanalpos",
     "description": "A payment module for Turkisk banks credit cards.",
     "type": "library",
-    "require": {
-        "karagulle/yapikredi": "^1.1.*"
+    "require-dev": {
+        "karagulle/yapikredi": "dev-master"
     },
     "license": "MIT",
     "authors": [
