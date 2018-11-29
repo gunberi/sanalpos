@@ -18,4 +18,8 @@ class Pos
 		$this->config = include('config/' . $pos . '.php');
 	}
 
+	function getConfig() {
+		return $this->config;
+	}
+
 }
