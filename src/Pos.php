@@ -6,7 +6,7 @@
  * Time: 04:08
  */
 
-namespace SanalPos;
+namespace Gunberi\SanalPos;
 
 
 class Pos
